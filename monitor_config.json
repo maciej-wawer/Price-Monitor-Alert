@@ -1,0 +1,7 @@
+{
+  "alert_threshold_percent": 5,
+  "check_interval_seconds": 60,
+  "sound_enabled": true,
+  "sound_volume": 1000,
+  "sound_frequency": 1000
+}
