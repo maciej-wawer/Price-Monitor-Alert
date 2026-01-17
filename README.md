@@ -168,42 +168,4 @@ EUR/USD, GBP/USD, JPY/USD, AUD/USD, CAD/USD, CHF/USD,
 PLN/USD, CZK/USD, HUF/USD i wiele innych
 ```
 
----
 
-## ⚠️ Uwagi
-
-- Program wymaga **Windows** (ze względu na `winsound`)
-- API ma limity: ~50 req/minutę (CoinGecko)
-- Minimalna częstotliwość dźwięku: 100 Hz
-- Maksymalna częstotliwość dźwięku: 10000 Hz
-- Interwał monitoringu: minimum 1 sekunda
-
----
-
-## 🆘 Problemy?
-
-**Program nie startuje:**
-- Upewnij się, że Python 3.7+ jest zainstalowany
-- Sprawdź, czy pakiety są zainstalowane: `pip install -r requirements.txt`
-
-**Brak dźwięku:**
-- Sprawdź ustawienia (Opcja 9)
-- Włącz dźwięk (Opcja 1)
-- Przetestuj alert (Opcja 8)
-
-**API error:**
-- Połączenie z internetem OK?
-- Czekaj, API ma limity
-
----
-
-## 📞 Informacje
-
-**Wersja:** 1.0  
-**Data:** 2026-01-17  
-**Licencja:** Proprietary  
-**System:** Windows (Python 3.7+)
-
----
-
-**Gotowy do pracy! 🚀**
